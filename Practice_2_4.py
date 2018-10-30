@@ -1,0 +1,5 @@
+name = ("Edison")
+print(name.upper())
+print(name.lower())
+print(name.title())
+input("Press Enter to Close")
